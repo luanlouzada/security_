@@ -1,0 +1,1 @@
+**Somewhere You Are**: É a autenticação baseada na localização do usuário, como uma rede Wi-Fi confiável. #security

@@ -1,0 +1,1 @@
+**Something You Know**: Fator de autenticação baseado em conhecimento, como senhas, PINs ou respostas a perguntas de segurança. #security

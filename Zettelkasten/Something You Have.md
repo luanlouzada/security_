@@ -1,0 +1,1 @@
+**Something You Have**: Fator de autenticação baseado em posse, como um token físico, um cartão inteligente ou um celular que recebe códigos(MFA). #security

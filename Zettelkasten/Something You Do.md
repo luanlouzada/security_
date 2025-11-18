@@ -1,0 +1,1 @@
+**Something You Do**:É a autenticação baseada em uma ação, como um padrão de assinatura ou digitação. #security

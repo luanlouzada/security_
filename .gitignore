@@ -1,0 +1,7 @@
+.obsidian
+.obsidian/*
+ob_revlog.csv
+tracked_files.json
+copilot*
+copilot/*
+
